@@ -89,7 +89,7 @@ IJCAI 2023. [[Paper](https://www.ijcai.org/proceedings/2023/0187.pdf)]  [[Code](
 
 9. **Prompt Evolution for Generative AI: A Classifier-Guided Approach**\
 *Melvin Wong, Yew-Soon Ong, Abhishek Gupta, Kavitesh Kumar Bali, Caishun Chen*\
-CAI 2023. [[Paper](https://ieeexplore.ieee.org/document/10195116/)]\
+CAI 2023. [[Paper](https://ieeexplore.ieee.org/document/10195116/)]
 
 10. **Black-Box Prompt Learning for Pre-trained Language Models**\
 *Shizhe Diao, Zhichao Huang, Ruijia Xu, Xuechun Li, Yong Lin, Xiao Zhou, Tong Zhang*\
