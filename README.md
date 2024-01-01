@@ -85,7 +85,7 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2201.03514)]  [[Code](https://github.
 
 8. **Black-box Prompt Tuning for Vision-Language Model as a Service**\
 *Lang Yu, Qin Chen, Jiaju Lin, Liang He*\
-IJCAI 2023. [[Paper](https://www.ijcai.org/proceedings/2023/0187.pdf)]  [[Code](https://github.com/BruthYU/BPT-VLM)]\
+IJCAI 2023. [[Paper](https://www.ijcai.org/proceedings/2023/0187.pdf)]  [[Code](https://github.com/BruthYU/BPT-VLM)]
 
 9. **Prompt Evolution for Generative AI: A Classifier-Guided Approach**\
 *Melvin Wong, Yew-Soon Ong, Abhishek Gupta, Kavitesh Kumar Bali, Caishun Chen*\
