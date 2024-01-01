@@ -98,4 +98,4 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2201.08531v3)]  [[Code](https://link.
 
 11. **Genetic Prompt Search via Exploiting Language Model Probabilities** \
 *Jiangjiang Zhao, Zhuoran Wang, Fangchun Yang* \
-IJCAI 2023. [[Paper](https://www.ijcai.org/proceedings/2023/0588.pdf)]
+IJCAI 2023. [[Paper](https://www.ijcai.org/proceedings/2023/0588.pdf)]  [[Code](https://github.com/zjjhit/gap3)]
