@@ -42,8 +42,8 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2310.12541)] \
 19 Oct 2023 
 
 6. **Language Model Crossover: Variation through Few-Shot Prompting**
-*Elliot Meyerson, Mark J. Nelson, Herbie Bradley, Adam Gaier, Arash Moradi, Amy K. Hoover, Joel Lehman* 
-arXiv 2023 [[Paper](https://arxiv.org/abs/2302.12170)] 
+*Elliot Meyerson, Mark J. Nelson, Herbie Bradley, Adam Gaier, Arash Moradi, Amy K. Hoover, Joel Lehman* \
+arXiv 2023 [[Paper](https://arxiv.org/abs/2302.12170)] \
 7 Oct 2023
 
 ## 🏷️ EC for LLM
@@ -94,8 +94,8 @@ CAI 2023. [[Paper](https://ieeexplore.ieee.org/document/10195116/)]\
 10. **Black-Box Prompt Learning for Pre-trained Language Models**\
 *Shizhe Diao, Zhichao Huang, Ruijia Xu, Xuechun Li, Yong Lin, Xiao Zhou, Tong Zhang*\
 arXiv 2023. [[Paper](https://arxiv.org/abs/2201.08531v3)]  [[Code](https://link.zhihu.com/?target=https%3A//github.com/shizhediao/Black-Box-Prompt-Learning)]\
-23 Feb 2023\
+23 Feb 2023
 
-11. **Genetic Prompt Search via Exploiting Language Model Probabilities** 
-*Jiangjiang Zhao, Zhuoran Wang, Fangchun Yang* 
+11. **Genetic Prompt Search via Exploiting Language Model Probabilities** \
+*Jiangjiang Zhao, Zhuoran Wang, Fangchun Yang* \
 IJCAI 2023. [[Paper](https://www.ijcai.org/proceedings/2023/0588.pdf)]
