@@ -46,6 +46,11 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2310.12541)] \
 arXiv 2023 [[Paper](https://arxiv.org/abs/2302.12170)] \
 7 Oct 2023
 
+7. **Evoprompting: Language models for code-level neural architecture search**
+*Angelica Chen, David M. Dohan, David R. So* \
+arXiv 2023 [[Paper](https://arxiv.org/abs/2302.14838)] \
+28 Feb 2023
+
 ## 🏷️ EC for LLM
 
 1. **Plum: Prompt Learning using Metaheuristic**\
